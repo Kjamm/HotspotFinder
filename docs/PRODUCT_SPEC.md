@@ -1,4 +1,4 @@
-# HotspotFinder v2 — 제품 설계 및 요구사항
+# HotspotFinder — 제품 설계 및 요구사항
 
 작성·수정일: 2026-11-17 (Asia/Seoul)  
 상태 — 로컬 앱 0.1 구현. EvoEF 자동 설치와 macOS arm64 실제 계산 검증 완료. FoldX·BudeAlaScan·Flex ddG는 연동 코드와 파서가 구현되어 있으며 실제 엔진 검증은 남아 있다. 현재 제공 기능과 실행 방법은 README에 정리했다.
