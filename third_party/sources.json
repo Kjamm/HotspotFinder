@@ -1,0 +1,18 @@
+{
+  "evoef": {
+    "commit": "6bce56dcbf95e34dfe890bfccdffd0df252b830c",
+    "url": "https://github.com/tommyhuangthu/EvoEF.git"
+  },
+  "budealascan": {
+    "commit": "dad358e51db905306e625626ece71c7ea3b46270",
+    "url": "https://github.com/wells-wood-research/BAlaS.git"
+  },
+  "flex_ddg": {
+    "commit": "2bef78cf4ee92877070434ee3be5fec3f5812eec",
+    "url": "https://github.com/Kortemme-Lab/flex_ddG_tutorial.git"
+  },
+  "saambe3d": {
+    "url": "https://github.com/delphi001/SAAMBE-3D.git",
+    "commit": "182a2746c8adb7434f1ac28c111e6b3f031c59e7"
+  }
+}
