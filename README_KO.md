@@ -1,4 +1,4 @@
-# HotspotFinder v2
+# HotspotFinder
 
 [English](README.md) · **한국어**
 
