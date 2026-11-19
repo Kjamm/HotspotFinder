@@ -4,6 +4,8 @@
 
 HotspotFinder identifies protein–protein interfaces in a PDB complex and compares how different local tools predict the effect of replacing each interface residue with alanine. Use the residue heatmap, sequence and 3D structure to inspect candidates and see where the tools agree. Use the **한국어 / English** buttons in the top bar to switch the interface language. The browser remembers your choice.
 
+**[Step-by-step user guide](docs/USER_GUIDE.md)**
+
 ## Quick start
 
 Download the repository and run the following command from its root directory. A fresh checkout needs Python 3 with `venv` and `pip`, Node.js with npm, and an internet connection to download dependencies.
